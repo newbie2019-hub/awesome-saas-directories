@@ -28,6 +28,7 @@ A curated list of directories and platforms to launch and promote your SaaS prod
 3. [StartupBase](https://startupbase.io/) - A directory for makers to showcase startups.
 4. [Launching Next](https://www.launchingnext.com/) - List your new startup for early adopters.
 5. [SideProjectors](https://www.sideprojectors.com/) - A hub for SaaS side projects.
+6. [IndieProducts.io](https://www.indieproducts.io/) - A directory for Indie products, Solopreneurs and Buildinpublic makers.
 
 ---
 
