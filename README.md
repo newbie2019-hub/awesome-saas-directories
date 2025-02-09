@@ -23,11 +23,13 @@ A curated list of directories and platforms to launch and promote your SaaS prod
 ---
 
 ## 🥳 Startup and Maker Communities
+
 - [BetaList](https://www.betalist.com/) - Showcase early-stage startups.
 - [Indie Hackers](https://www.indiehackers.com/) - Community of bootstrapped SaaS founders.
 - [StartupBase](https://startupbase.io/) - A directory for makers to showcase startups.
 - [Launching Next](https://www.launchingnext.com/) - List your new startup for early adopters.
 - [SideProjectors](https://www.sideprojectors.com/) - A hub for SaaS side projects.
+- [IndieProducts.io](https://www.indieproducts.io/) - A directory for Indie products, Solopreneurs and Buildinpublic makers.
 
 ---
 
@@ -35,6 +37,7 @@ A curated list of directories and platforms to launch and promote your SaaS prod
 - [Altern](https://altern.ai) - Find almost anything related to AI
 - [There's an AI](https://theresanai.com) - The best AI Tools Directory
 - [Future Tools](https://futuretools.io) - Stay up-to-date on AI Tools
+
 
 ---
 
