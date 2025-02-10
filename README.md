@@ -1,6 +1,6 @@
 # 🚀 Awesome SaaS Directories 
 
-A curated list of directories and platforms to launch and promote your SaaS product effectively. Boost visibility, attract users, and grow your brand!  
+A curated list of top best directories and platforms to launch and promote your SaaS product effectively. Boost visibility, attract users, and grow your brand!  
 
 ---
 
