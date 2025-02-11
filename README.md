@@ -90,7 +90,7 @@ A More Complete List of AI Directories are available on **[best-of-ai/ai-directo
 ---
 
 ## ⚙️ Business Operations SaaS Directories
-- [PlatformsDirectory.co](https://www.platformsdirectory.com/) - List and review cross-platform apps, tools, and software designed to bring business online, enhance and streamline operations.
+- [PlatformsDirectory.com](https://www.platformsdirectory.com/) - List and review cross-platform apps, tools, and software designed to bring business online, enhance and streamline operations.
 
 ## 🎉 Bonus Platforms
 - [Startup Stash](https://startupstash.com/) - Curated tools and resources for startups.
