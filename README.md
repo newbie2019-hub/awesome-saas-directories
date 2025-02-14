@@ -15,10 +15,8 @@ A curated list of top best directories and platforms to launch and promote your 
 
 ## 🏅 Specialized SaaS Directories
 - [SaaSHub](https://www.saashub.com/) - Independent SaaS marketplace.
-- [Siftery](https://siftery.com/) - Explore software stacks of businesses.
-- [Sales Stack](https://www.salesstack.com/) - SaaS tools for sales teams.
 - [Zapier Directory](https://zapier.com/apps) - Tools integrated with Zapier.
-- [B2B Stack](https://b2bstack.org/) - SaaS tools for B2B use.
+- [B2B Stack](https://www.b2bstack.com.br) - SaaS tools for B2B use.
 
 ---
 
